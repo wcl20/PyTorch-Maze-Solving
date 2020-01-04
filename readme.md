@@ -1,4 +1,4 @@
-# ML Deep Q-Learning Maze
+# PyTorch Maze Solving
 Agent finds shortest path to goal (green) using Deep Q-Learning algorithm.
 
 ## Setup
